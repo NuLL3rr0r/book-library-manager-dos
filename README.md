@@ -3,7 +3,7 @@ Book Library Manager (MS-DOS)
 
 A book library manager application written in Turbo Pascal 7.0. The binary was patched using PATCH-CRT to fix the Runtime Error 200 (division by zero error).
 
-![Alt text](/Screenshots/library-manager.png?raw=true "Book Library Manager (MS-DOS)")
+![Book Library Manager (MS-DOS)](/Screenshots/library-manager.png?raw=true "Book Library Manager (MS-DOS)")
 
 
 ## License
